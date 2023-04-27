@@ -1,7 +1,7 @@
 # Flask_plantillas
 
 El archivo base.html contiene la plantilla que se usara en las diferentes páginas de la aplicación web 
-en los archivos html de la aplicación se introduce el contenido html o css usando las etiquetas:
+en los archivos html de la aplicación se introduce el contenido html usando las etiquetas:
 
 >{% extends "base.html" %}
 
