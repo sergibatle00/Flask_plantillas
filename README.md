@@ -19,5 +19,7 @@ Todos los archivos html se encuentran en un fichero llamado 'Templates', tambien
 ## Nota
 
 En el tutorial de vscode Flask se mencionan unos pasos en el que se crea un archivo json para poder debuggear la aplicacion en caso de que queramos insertar variables en la aplicacion web desde el archivo de Python como se nos muestra en el ejemplo con:
+
 > now = datetime.now
+
 El archivo json nos permitira observar el comportamiento de estas variables, yo no lo he incluido en mi aplicaion puesto que no lo he considerado necesario para cumplir el objetivo de crear una aplicacion web usando plantillas Flask.
